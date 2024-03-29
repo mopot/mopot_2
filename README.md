@@ -1,4 +1,15 @@
-# mopot_2
-# <img src="https://github.com/mopot/mopot_2/assets/148300331/b4f667ce-dfc5-47bf-b0f1-46cdec93eca5">
+#  소셜 네트워크 웹 MOPOT 
+# 1. Description
+  From Online To Offline , 원하는 주제로 다양한 사람들과 오프라인 만남을 매칭해주는 웹입니다.
+# 2. Features
 
-mopot PR 테스트를 위한 저장소 
+# 3. System Requirements
+
+# 4. Getting Started
+
+# 5. Source Architecture
+
+# 6. Wiki link
+
+# 7. License
+
