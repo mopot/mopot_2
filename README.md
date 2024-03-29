@@ -25,7 +25,7 @@
   ### (2) Back-end : Springboot
   ### (3) DB : Oracle
   
-# 6. Wiki link
+# 6. Homepage link
 
 # 7. License
 MIT License
