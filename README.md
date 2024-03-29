@@ -28,4 +28,4 @@
 # 6. Wiki link
 
 # 7. License
-
+MIT License
